@@ -1,0 +1,17 @@
+title: "يامال | Yamal"
+description: "سياسة الخصوصية والدعم لتطبيق يامال · Privacy Policy and Support for the Yamal app"
+theme: minima
+lang: en
+url: "https://rashedfahad23-bot.github.io"
+baseurl: "/yamal-site"
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+header_pages:
+  - privacy-ar.md
+  - privacy-en.md
+  - support-ar.md
+  - support-en.md
