@@ -4,7 +4,7 @@ lang: en
 permalink: /support-en/
 ---
 
-[Arabic version · النسخة العربية]({{ '/support-ar/' | relative_url }})
+[Arabic version <bdi lang="ar" dir="rtl">(النسخة العربية)</bdi>]({{ '/support-ar/' | relative_url }})
 
 # Yamal Support
 
@@ -20,16 +20,24 @@ Yamal is designed for iPhone only. There is no dedicated iPad version.
 
 ### How do I log expenses automatically from bank messages?
 Follow the steps on the bank setup screen inside the app. In short, you create an automation in the Shortcuts app that runs when a message arrives from your bank, add Yamal's «سجّل رسالة البنك» ("Log bank message") action to it, and pass the message content to that action.
-The app does not store the full bank message text. It keeps only the amount, the merchant and basic details, and it ignores one-time passcode (OTP) messages.
+The app does not store the full bank message text. With the expense, it saves the amount, the merchant name, the bank name, the last four digits of the card if the message contains them, and the date of the message. It ignores one-time passcode (OTP) messages.
 
 ### What is saved when I use quick entry?
-If you log an expense through the «أضف مصروف» ("Add expense") action in Shortcuts or Siri, the app extracts the amount and merchant from the description you typed and saves that description as a note on the expense. The same may happen when you use quick entry inside the app. All of this stays on your device only.
+If you log an expense through the «أضف مصروف» ("Add expense") action in Shortcuts or Siri, the app extracts the amount and merchant from the description you typed and saves that description as a note on the expense. When you use quick entry inside the app, it may save the description in the same way. All of this stays on your device only.
+
+### What can I edit?
+The salary amount, the sahharat split, your payday and how the app addresses you.
 
 ### How do I delete my data?
-On the home screen, tap the Yamal button (gear icon), then Settings («الإعدادات»), then «مسح كل البيانات» ("Erase all data"). You can also delete individual goals and loans, or delete the app itself.
+- **All data:** on the home screen, tap the settings button «يامال ⚙︎», then the button labelled «مسح كل البيانات» (Erase all data), and confirm. The erasure cannot be undone once confirmed. It deletes from your device recorded transactions (expenses and salaries), the salary split and sahharat, goals («لؤلؤة»), loans, merchant categorisation rules and settings, and the app returns to its start screen.
+- **A single item:** you can delete a single goal («لؤلؤة») or loan, and you can delete a bank message awaiting review by marking it as incorrect.
+- **Recorded transactions:** these are currently removed with «مسح كل البيانات».
+- **Deleting the app:** iOS is expected to delete the app's data stored on the device when the app is deleted.
+
+Neither erasing nor deleting the app changes a backup of your device taken earlier through iCloud or a computer. For details, see sections 7 and 8 of the [Privacy Policy]({{ '/privacy-en/' | relative_url }}).
 
 ### The app misread a bank message. What can I do?
-Expenses that need review are shown to you for confirmation, and you can mark any of them as incorrect to remove it. Once an expense is confirmed, if your version of the app does not let you edit or delete it, the only way to remove it is "Erase all data" or deleting the app, both of which erase all your data.
+If the message is awaiting review, you can mark it as incorrect to delete it. Once a transaction is recorded, it is currently removed with «مسح كل البيانات», which erases all your data, so check messages awaiting review regularly.
 
 ### Can I move my data to a new device?
 The app does not currently offer data export or import. Your data may carry over if you restore a backup of your old device onto the new one, depending on your backup settings.
@@ -46,4 +54,4 @@ Yamal is a tool for organising and recording your salary and spending. It is not
 ## Contact
 For support and enquiries, contact the developer at: [yamal.app.support@gmail.com](mailto:yamal.app.support@gmail.com)
 
-[Arabic version · النسخة العربية]({{ '/support-ar/' | relative_url }}) · [Home]({{ '/' | relative_url }})
+[Arabic version <bdi lang="ar" dir="rtl">(النسخة العربية)</bdi>]({{ '/support-ar/' | relative_url }}) · [Home]({{ '/' | relative_url }})

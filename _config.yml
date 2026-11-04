@@ -11,7 +11,7 @@ defaults:
     values:
       layout: default
 header_pages:
-  - privacy-ar.md
-  - privacy-en.md
-  - support-ar.md
-  - support-en.md
+  - privacy-ar/index.md
+  - privacy-en/index.md
+  - support-ar/index.md
+  - support-en/index.md
