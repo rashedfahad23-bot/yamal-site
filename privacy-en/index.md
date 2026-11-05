@@ -15,7 +15,7 @@ Yamal is an iPhone app that helps you organise your salary and spending. It is d
 The app is not affiliated with any bank and does not connect to your bank accounts.
 
 ## 2. In short
-**We do not collect any data about you.** Everything you enter in Yamal stays on your device. The app sends nothing to the developer or to anyone else. It requires no account or sign-in, uses no AI model and no server, requests no microphone access or any other iOS permission that requires a usage description, and uses no analytics, tracking or advertising tools.
+**We do not collect any data about you.** Everything you enter in Yamal stays on your device. The app sends nothing to the developer or to anyone else. It requires no account or sign-in, uses no AI model and no server, requests no iOS permissions (including microphone access), and uses no analytics, tracking or advertising tools.
 
 ## 3. Data the app processes on your device
 The app processes, on your device only, what you enter or what a shortcut you created passes to it:
@@ -55,18 +55,18 @@ Your data is stored on your device only, in a local storage container shared by 
 
 What widgets and the payday Live Activity show may be visible to anyone who can see your phone's screen, including the Lock Screen. If you do not want this, remove the widgets or turn off Live Activities for Yamal in iOS Settings.
 
-The app does not use iCloud sync or the Keychain, does not export your data to files, and does not send any data off your device. It does not send you notifications; what appears on the Lock Screen is the payday Live Activity described above.
+The app does not use iCloud sync or the Keychain, does not send you notifications, does not export your data to files, and does not send any data off your device.
 
 ## 7. No sharing, selling or tracking
 We do not sell your data or share it with any third party, and we do not use it for advertising. We do not track you within the app or across other apps and websites.
 
 ## 8. Backups
-If you back up your device through iCloud or your computer, those backups may include Yamal's data. These backups are under your control and are governed by Apple's settings and policies; the developer has no access to them. Neither «مسح كل البيانات» (Erase all data) nor deleting the app changes a backup taken before it, and you can delete such backups in your device or Apple account settings. If you restore an older backup, the data it contains may be restored with it.
+If you back up your device through iCloud or your computer, those backups may include Yamal's data. These backups are under your control and are governed by Apple's settings and policies; the developer has no access to them. Neither "Erase all data" nor deleting the app changes a backup taken before it, and you can delete such backups in your device or Apple account settings. If you restore an older backup, the data it contains may be restored with it.
 
 ## 9. Editing, deletion and retention
-**Retention:** your data stays on your device until you erase all of it with the «مسح كل البيانات» button, delete an individual item that can be deleted, or delete the app, as described below. The developer keeps no copy, because the data never reaches the developer.
+**Retention:** your data stays on your device until you erase all of it with the "Erase all data" button, delete an individual item that can be deleted, or delete the app, as described below. The developer keeps no copy, because the data never reaches the developer.
 
-**Erasing all data:** on the home screen, tap the settings button labelled «يامال ⚙︎» in the Arabic interface, then the button labelled «مسح كل البيانات» (Erase all data). The app asks you to confirm before erasing, and the erasure cannot be undone once confirmed. It deletes from your device:
+**Erasing all data:** on the home screen, tap the "Settings" button (labelled «يامال ⚙︎» in the Arabic interface), then "Erase all data" («مسح كل البيانات» in the Arabic interface). The app asks you to confirm ("Erase all data?") before erasing, and the erasure cannot be undone once confirmed. It deletes from your device:
 - recorded transactions (expenses and salaries);
 - the salary split and sahharat;
 - your money manager's name and persona, your getting-to-know-you answers and your money basics;
@@ -76,7 +76,7 @@ If you back up your device through iCloud or your computer, those backups may in
 - merchant categorisation rules;
 - settings, including language, digits and appearance settings.
 
-After erasing, the app returns to its start screen.
+After erasing, the app returns to its start screen, the payday Live Activity ends, and the on-device tools show empty values.
 
 **Editing:** you can edit:
 - the salary amount, the sahharat split, your payday and how the app addresses you;
@@ -86,11 +86,11 @@ After erasing, the app returns to its start screen.
 
 **Deleting an individual item:** you can delete a single goal («لؤلؤة») or loan, and you can delete a bank message awaiting review by marking it as incorrect.
 
-**Recorded transactions:** recorded transactions (expenses and salaries) are currently removed with «مسح كل البيانات».
+**Recorded transactions:** recorded transactions (expenses and salaries) are currently removed with "Erase all data".
 
 **Deleting the app:** iOS is expected to delete the app's data stored on the device when the app is deleted. Backups taken before then are covered by section 8.
 
-**Shortcuts:** «مسح كل البيانات» does not delete automations you created in the Shortcuts app, so delete them there if you wish.
+**Shortcuts:** "Erase all data" does not delete automations you created in the Shortcuts app, so delete them there if you wish.
 
 ## 10. Your rights and the app's limitations
 You can view your data within the app, edit what can be edited, and delete it as described in section 9. The app does not currently let you export or import your data.

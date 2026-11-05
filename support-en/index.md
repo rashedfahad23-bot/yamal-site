@@ -51,7 +51,7 @@ If you log an expense through the «أضف مصروف» ("Add expense") action i
 - On the «مصروف الأسبوع» (weekly spending) screen: your weekly spending items.
 
 ### How do I delete my data?
-- **All data:** on the home screen, tap the settings button labelled «يامال ⚙︎» in the Arabic interface, then the button labelled «مسح كل البيانات» (Erase all data), and confirm. The erasure cannot be undone once confirmed. It deletes from your device:
+- **All data:** on the home screen, tap the "Settings" button (labelled «يامال ⚙︎» in the Arabic interface), then "Erase all data" («مسح كل البيانات» in the Arabic interface), and confirm when asked "Erase all data?". The erasure cannot be undone once confirmed. It deletes from your device:
   - recorded transactions (expenses and salaries);
   - the salary split and sahharat;
   - your money manager's name and persona, your getting-to-know-you answers and your money basics;
@@ -61,15 +61,15 @@ If you log an expense through the «أضف مصروف» ("Add expense") action i
   - merchant categorisation rules;
   - settings, including language, digits and appearance.
 
-  The app then returns to its start screen.
+  The app then returns to its start screen, the payday Live Activity ends, and the on-device tools show empty values.
 - **A single item:** you can delete a single goal («لؤلؤة») or loan, and you can delete a bank message awaiting review by marking it as incorrect.
-- **Recorded transactions:** these are currently removed with «مسح كل البيانات».
+- **Recorded transactions:** these are currently removed with "Erase all data".
 - **Deleting the app:** iOS is expected to delete the app's data stored on the device when the app is deleted.
 
 Neither erasing nor deleting the app changes a backup of your device taken earlier through iCloud or a computer. For details, see sections 8 and 9 of the [Privacy Policy]({{ '/privacy-en/' | relative_url }}).
 
 ### The app misread a bank message. What can I do?
-If the message is awaiting review, you can mark it as incorrect to delete it. Once a transaction is recorded, it is currently removed with «مسح كل البيانات», which erases all your data, so check messages awaiting review regularly.
+If the message is awaiting review, you can mark it as incorrect to delete it. Once a transaction is recorded, it is currently removed with "Erase all data", which erases all your data, so check messages awaiting review regularly.
 
 ### Can I move my data to a new device?
 The app does not currently offer data export or import. Your data may carry over if you restore a backup of your old device onto the new one, depending on your backup settings.
