@@ -7,7 +7,7 @@ permalink: /
 
 # يامال
 
-«يامال» تطبيق عربي للآيفون لتنظيم الراتب والمصروف. في هذا الموقع سياسة الخصوصية وصفحة الدعم.
+«يامال» تطبيق للآيفون بالعربية والإنجليزية لتنظيم الراتب والمصروف. في هذا الموقع سياسة الخصوصية وصفحة الدعم.
 
 - [سياسة الخصوصية]({{ '/privacy-ar/' | relative_url }})
 - [الدعم]({{ '/support-ar/' | relative_url }})
@@ -18,7 +18,7 @@ permalink: /
 
 # Yamal
 
-Yamal is an Arabic iPhone app for organising your salary and spending. This site contains the app's privacy policy and support page.
+Yamal is an Arabic and English iPhone app for organising your salary and spending. This site contains the app's privacy policy and support page.
 
 - [Privacy Policy]({{ '/privacy-en/' | relative_url }})
 - [Support]({{ '/support-en/' | relative_url }})
